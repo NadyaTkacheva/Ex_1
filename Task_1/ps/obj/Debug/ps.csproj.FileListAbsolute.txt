@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ps\ps\bin\Debug\ps.exe.config
+C:\Users\Admin\source\repos\ps\ps\bin\Debug\ps.exe
+C:\Users\Admin\source\repos\ps\ps\bin\Debug\ps.pdb
+C:\Users\Admin\source\repos\ps\ps\obj\Debug\ps.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ps\ps\obj\Debug\ps.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ps\ps\obj\Debug\ps.exe
+C:\Users\Admin\source\repos\ps\ps\obj\Debug\ps.pdb
